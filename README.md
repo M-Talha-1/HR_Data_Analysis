@@ -3,6 +3,8 @@
 ## Overview
 The AtliQ HR Analysis dashboard provides a comprehensive visualization of employee attendance, work-from-home (WFH) trends, and leave statistics. It is designed to help HR professionals analyze workforce patterns and make data-driven decisions.
 
+![HR Dashboard](https://github.com/M-Talha-1/HR_Data_Analysis/blob/e7444c1ae51b179dbb64141e00fccd8554ff6952/resources/Thumbnail.png)
+
 ---
 
 ## Features
